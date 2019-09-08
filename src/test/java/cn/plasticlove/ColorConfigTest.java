@@ -17,6 +17,9 @@ import org.springframework.stereotype.Component;
  *
  * 1.xml配置
  * 2.@注解
+ *      1)传统的@component
+ *      2)@Configuration+@Bean
+ *      3)@Import
  * 3.FactoryBean工厂bean注入
  */
 
